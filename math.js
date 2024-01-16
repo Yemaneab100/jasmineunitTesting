@@ -22,3 +22,4 @@ module.exports = {
     multiply: multiply,
     divide: divide
   };
+  
