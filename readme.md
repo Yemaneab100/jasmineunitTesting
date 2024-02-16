@@ -4,4 +4,6 @@ In this instance, I'll illustrate the process of unit testing JavaScript code us
 
 Within the math.spec.js file, two Jasmine tests are crafted using describe and it blocks. The initial test validates the accuracy of the add and subtract functions when applied to positive numbers. Meanwhile, the second test ensures the add and subtract functions handle negative numbers appropriately.
 
+Fabonaci, factorial, and bubbleSort algorithms also tested using jasmine.
+
 To execute these tests, simply run the command npx jasmine in your terminal or bash environment.
